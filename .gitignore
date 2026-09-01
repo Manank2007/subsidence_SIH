@@ -1,0 +1,16 @@
+# Python environment and caching
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large ML Datasets and Assets
+data/
+datasets/
+models/
+
+# Heavy model weight formats
+*.pkl
+*.pth
+*.h5
+*.onnx
